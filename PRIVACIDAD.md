@@ -2,7 +2,7 @@
 
 **Última actualización:** 4 de octubre de 2026
 
-Lingua Swipe es una app para aprender inglés publicada por **Sakura School CR** ("nosotros"). Esta política explica qué datos usa la app, para qué y cómo puedes borrarlos. Si tienes preguntas, escríbenos a **linguaswipe.app@gmail.com**.
+Lingua Swipe es una app para aprender inglés publicada por **Sakura School CR** ("nosotros"). Esta política explica qué datos usa la app, para qué y cómo puedes borrarlos. Si tienes preguntas, escríbenos a **linguaswipe.appcr@gmail.com**.
 
 ## Resumen
 
@@ -45,11 +45,11 @@ Lingua Swipe es para personas de **13 años o más**. Al empezar, la app pide co
 ## Cómo borrar tus datos
 
 1. **En la app:** Perfil → **Borrar mis datos**. Se borran tu progreso, tus ajustes y las voces descargadas del teléfono, y se reinicia el identificador de estadísticas.
-2. **Si tienes cuenta:** al usar "Borrar mis datos" se abre un correo ya escrito para pedirnos que eliminemos la cuenta. También puedes escribir a **linguaswipe.app@gmail.com** con el asunto "Eliminar mi cuenta" desde el correo de tu cuenta. La eliminamos, junto con su progreso, en un máximo de **30 días**.
+2. **Si tienes cuenta:** al usar "Borrar mis datos" se abre un correo ya escrito para pedirnos que eliminemos la cuenta. También puedes escribir a **linguaswipe.appcr@gmail.com** con el asunto "Eliminar mi cuenta" desde el correo de tu cuenta. La eliminamos, junto con su progreso, en un máximo de **30 días**.
 
 ## Tus derechos
 
-Puedes pedirnos una copia de tus datos, corregirlos o eliminarlos escribiendo a **linguaswipe.app@gmail.com**. Respondemos en un máximo de 30 días.
+Puedes pedirnos una copia de tus datos, corregirlos o eliminarlos escribiendo a **linguaswipe.appcr@gmail.com**. Respondemos en un máximo de 30 días.
 
 ## Seguridad
 
@@ -63,7 +63,7 @@ Si cambiamos esta política, actualizaremos la fecha de arriba y, si el cambio e
 
 # Lingua Swipe Privacy Policy (English summary)
 
-**Last updated:** October 4, 2026 · Publisher: **Sakura School CR** · Contact: **linguaswipe.app@gmail.com**
+**Last updated:** October 4, 2026 · Publisher: **Sakura School CR** · Contact: **linguaswipe.appcr@gmail.com**
 
 - You can use the app without an account; your progress is stored on your device.
 - If you create an account, your email and progress are stored with Supabase to sync across devices.
